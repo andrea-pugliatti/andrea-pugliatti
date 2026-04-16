@@ -18,11 +18,6 @@ I am a Full Stack Web Developer based in Italy, with a strong focus on building 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrea-pugliatti&theme=tokyonight&hide_border=true" alt="Andrea's GitHub Streak" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/andrea-pugliatti">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrea-pugliatti&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
 
 ## 🛠️ Tech Stack
 
@@ -53,13 +48,19 @@ I am a Full Stack Web Developer based in Italy, with a strong focus on building 
 
 **Other:** REST APIs, Database Design, Problem Solving
 
+<p>
+  <a href="https://github.com/andrea-pugliatti">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrea-pugliatti&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
 ## 🚀 Projects
 
 * **RetroFocus** - An end-to-end app built with a **React** frontend and **Spring Boot** backend. I designed the entire architecture, implemented secure authentication with Spring Security, managed data persistence on MySQL, and handled client-server integration via REST APIs.
 * **Candea** - An e-commerce platform for selling candles. Developed in a team environment using Git. Built with a **Node.js/Express** REST API architecture, a **MySQL** database, and a **React** frontend.
 * **Zoom Enhance** - A fun frontend application built in **React** that combines AI image upscaling and Web Audio APIs to interactively simulate the classic "zoom and enhance" meme from CSI.
 
-## 📫 Connect with me
+## 📫 Let's connect
 
 * 📧 [Email](mailto:andrea.pugliatti@outlook.it)
 * 💼 [LinkedIn](https://www.linkedin.com/in/andrea-pugliatti-537693161/)
